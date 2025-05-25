@@ -24,5 +24,5 @@ def create_cash_sales_tables():
 
 
 if __name__ == "__main__":
-    create_sales_tables()
+    create_cash_sales_tables()
     print("Sales tables created successfully.")
